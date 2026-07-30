@@ -1,1 +1,3 @@
 Utilizando características da classe de RPG que eu sou, "BRUXO", solicitei para que a IA Generativa agisse como tal, listando as principais características dele e o que deveria estar contido no bestiário (nome da criatura, características físicas marcantes, origem, hábitats, técnicas de ataque e fraquezas. Assim, gerei um bestiário com todas as informações relevantes que um bruxo teria.
+
+"Liste todas as criaturas de The Witcher de uma forma de uma enciclopédia feita por um bruxo. Cite as principais informações, que são: locais que aparecem, o que são, breve descrição física, forma de ataque e fraquezas (como derrotá-los)"
